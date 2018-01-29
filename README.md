@@ -25,7 +25,7 @@ D'après ces deux définitions, on peut déduire que la différence majeure entr
 
 
 <table align="center">
-  <tr>
+  <tr align="center">
     <th>YO</th>
   </tr>
 </table>
