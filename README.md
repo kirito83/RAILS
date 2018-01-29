@@ -2,6 +2,7 @@
 
 #### Ici nous allons voir
 
+1. la liste
 ··*La différence entre un site statique et un site dynamique.
 ··*Le MVC.
 ··*Les routes.
