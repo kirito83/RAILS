@@ -22,7 +22,7 @@ Un **_site web statique_** est une page dont le contenue ne varie pas en fonctio
 
 <br />
 
-![Schéma site statique et dynamique](http://www.imedias.pro/wp-content/themes/bootstrap-basic4-child/images/cours/page_web/page_statique_dynamique.gif)
+![Schéma site statique et dynamique](https://image.noelshack.com/fichiers/2018/05/1/1517235670-687474703a2f2f7777772e696d65646961732e70726f2f77702d636f6e74656e742f7468656d65732f626f6f7473747261702d6261736963342d6368696c642f696d616765732f636f7572732f706167655f7765622f706167655f73746174697175655f64796e616d697175652e676966.gif)
 
 <br />
 
@@ -50,7 +50,7 @@ Le modèle-vue-contrôleur est un motif composé de trois modules ayant trois r�
 
 <br />
 
-![Schéma du MVC](https://www.supinfo.com/articles/resources/175268/777/1.png)
+![Schéma du MVC](https://image.noelshack.com/fichiers/2018/05/1/1517235673-68747470733a2f2f7777772e737570696e666f2e636f6d2f61727469636c65732f7265736f75726365732f3137353236382f3737372f312e706e67.png)
 
 <br />
 
