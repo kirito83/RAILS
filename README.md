@@ -12,7 +12,7 @@
 * Les fonctions du CRUD.
 
 
-## 1.La différence entre un site statique et un site dynamique
+## 1. La différence entre un site statique et un site dynamique
 
 Tout d'abord voyons la définition de ces deux types de sites selon wikipédia
 
@@ -39,7 +39,7 @@ Dans le tableau suivant, qui représente la différence majeur entre ces deux ty
 
 
 
-## 2.Le MVC (Model View Controller)
+## 2. Le MVC (Model View Controller)
 
 Le modèle-vue-contrôleur est un motif composé de trois modules ayant trois rôles différents :
 
@@ -62,5 +62,26 @@ Ce motif MVC a été créé pour **mettre en oeuvre des interfaces utilisateur**
 
 ## 3. Les routes
 
+Les routes permettent d’**interpréter les URL** et d’**orienter vers les bonnes actions des controlleurs**. On peut les configurer dans le fichier config/routes.rb .
+
+Quelques exemples:
+
+- Configuration par défaut:
+`resources :photos`
+
+- Vous pouvez en déclarer plusieurs:
+`resources :photos, :books, :videos`
+
+- Définir une adresse principale:
+```ruby
+root :to =&gt; 'pages#main'
+```
 
 
+Pour plus d'informations vous pouvez lire la doc rails sur les [routes](http://guides.rubyonrails.org/routing.html) :bowtie:
+
+<br />
+
+## 4. Les Bases de données
+
+ 
