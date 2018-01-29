@@ -21,9 +21,10 @@ Un **_site web statique_** est une page dont le contenue ne varie pas en fonctio
 **_À l'inverse_**, une **_page web dynamique_** est générée à la demande et son contenue **_varie_** en fonction des caractéristiques de la demande (heure, adresse IP de l'ordinateur du demandeur, formulaire rempli par le demandeur, etc..) qui ne sont connues qu'au moment de sa consultation.
 
 <br />
+<br />
 
 ![Schéma site statique et dynamique](https://image.noelshack.com/fichiers/2018/05/1/1517235670-687474703a2f2f7777772e696d65646961732e70726f2f77702d636f6e74656e742f7468656d65732f626f6f7473747261702d6261736963342d6368696c642f696d616765732f636f7572732f706167655f7765622f706167655f73746174697175655f64796e616d697175652e676966.gif)
-
+<br />
 <br />
 
 D'après ces deux définitions, on peut déduire que la différence majeure entre un site statique et un site dynamique est le fait que le **premier affiche toujours le même contenue** et le **second varie en fonction de la demande**.
@@ -49,9 +50,9 @@ Le modèle-vue-contrôleur est un motif composé de trois modules ayant trois r�
 * Un contrôleur (Controller) contient la logique concernant les actions effectuées par l'utilisateur.
 
 <br />
-
+<br />
 ![Schéma du MVC](https://image.noelshack.com/fichiers/2018/05/1/1517235673-68747470733a2f2f7777772e737570696e666f2e636f6d2f61727469636c65732f7265736f75726365732f3137353236382f3737372f312e706e67.png)
-
+<br />
 <br />
 
 Ce motif MVC a été créé pour mettre en oeuvre des interfaces utilisateur et est donc utilisé, comme vous l'aurez compris, dans la création de site web dynamique !
