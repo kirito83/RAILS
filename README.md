@@ -42,6 +42,21 @@ Dans le tableau suivant, qui représente la différence majeur entre ces deux ty
 
 Le modèle-vue-contrôleur est un motif composé de trois modules ayant trois rôles différents :
 
+* Un modèle (Model) contient les données à afficher.
+
+* Une vue (View) contient la présentation de l'interface graphique.
+
+* Un contrôleur (Controller) contient la logique concernant les actions effectuées par l'utilisateur.
+
+<br />
+
+![Schéma du MVC](https://www.supinfo.com/articles/resources/175268/777/1.png)
+
+<br />
+
+Ce motif MVC a été créé pour mettre en oeuvre des interfaces utilisateur et est donc utilisé, comme vous l'aurez compris, dans la création de site web dynamique !
+
+## 3. Les routes
 
 
 
