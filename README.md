@@ -56,7 +56,9 @@ Le modèle-vue-contrôleur est un motif composé de trois modules ayant trois r�
 <br />
 <br />
 
-Ce motif MVC a été créé pour mettre en oeuvre des interfaces utilisateur et est donc utilisé, comme vous l'aurez compris, dans la création de site web dynamique !
+Ce motif MVC a été créé pour **mettre en oeuvre des interfaces utilisateur** et est donc utilisé, comme vous l'aurez compris, dans la _création de site web dynamique_ !
+
+<br />
 
 ## 3. Les routes
 
