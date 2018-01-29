@@ -1,4 +1,4 @@
-### Bienvenue sur l'explication de différents concepts rails !
+# Bienvenue sur l'explication de différents concepts rails !
 
 #### Ici nous allons voir
 
@@ -13,7 +13,7 @@
 
 ---
 
-# La différence entre un site statique et un site dynamique
+## La différence entre un site statique et un site dynamique
 
 Tout d'abord voyons la définition de ces deux types de sites selon wikipédia
 
@@ -21,18 +21,17 @@ Un _site web statique_ est une page dont le contenue ne varie pas en fonction de
 
 **_À l'inverse_**, une _page web dynamique_ est générée à la demande et son contenue **_varie_** en fonction des caractéristiques de la demande (heure, adresse IP de l'ordinateur du demandeur, formulaire rempli par le demandeur, etc..) qui ne sont connues qu'au moment de sa consultation.
 
-D'après ces deux définitions, on peut déduire que la différence majeure entre un site statique et un site dynamique est le fait que le premier affiche toujours le **même contenue** et le **second varie** en fonction de la demande.
+D'après ces deux définitions, on peut déduire que la différence majeure entre un site statique et un site dynamique est le fait que le **premier affiche toujours le même contenue** et le **second varie en fonction de la demande**.
+
+|Site statique   |Site dynamique|
+|:---:|:---:|
+|Affiche toujours le même contenue|Affiche un contenue variable en fonction de la demande|
+
+![Schéma site statique et dynamique](http://www.imedias.pro/wp-content/themes/bootstrap-basic4-child/images/cours/page_web/page_statique_dynamique.gif)
 
 
-<table align="center">
-  <tr align="center">
-    <th>YO</th>
-    <th>Yo</th>
-  </tr>
-</table>
 
-
-# Le MVC (Model View Controller)
+## Le MVC (Model View Controller)
 
 Le modèle-vue-contrôleur est un motif composé de trois modules ayant trois rôles différents :
 
