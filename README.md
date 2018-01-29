@@ -26,7 +26,7 @@ D'après ces deux définitions, on peut déduire que la différence majeure entr
 <center>
 
 |Site statique    |Site dynamique    |
-|-----------------|------------------|
+|-----------------|:----------------:|
 |même contenue    |contenue variable |
 
 </center>
