@@ -16,9 +16,9 @@
 
 Tout d'abord voyons la définition de ces deux types de sites selon wikipédia
 
-Un _site web statique_ est une page dont le contenue ne varie pas en fonction des caractéristiques de la demande, c'est-à-dire qu'à un moment donné tous les internautres qui demandent la page reçoivent le **_même contenue_**.
+Un **_site web statique_** est une page dont le contenue ne varie pas en fonction des caractéristiques de la demande, c'est-à-dire qu'à un moment donné tous les internautres qui demandent la page reçoivent le **_même contenue_**.
 
-**_À l'inverse_**, une _page web dynamique_ est générée à la demande et son contenue **_varie_** en fonction des caractéristiques de la demande (heure, adresse IP de l'ordinateur du demandeur, formulaire rempli par le demandeur, etc..) qui ne sont connues qu'au moment de sa consultation.
+**_À l'inverse_**, une **_page web dynamique_** est générée à la demande et son contenue **_varie_** en fonction des caractéristiques de la demande (heure, adresse IP de l'ordinateur du demandeur, formulaire rempli par le demandeur, etc..) qui ne sont connues qu'au moment de sa consultation.
 
 <br />
 
