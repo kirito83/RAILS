@@ -24,10 +24,17 @@ Un _site web statique_ est une page dont le contenue ne varie pas en fonction de
 D'après ces deux définitions, on peut déduire que la différence majeure entre un site statique et un site dynamique est le fait que le premier affiche toujours le **même contenue** et le **second varie** en fonction de la demande.
 
 
-|Site statique    |Site dynamique    |
-|:---:|:---:|
-|même contenue    |contenue variable |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"></th>
+  </tr>
+</table>
 
 
 # Le MVC (Model View Controller)
