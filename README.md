@@ -31,7 +31,8 @@ Dans le tableau suivant, qui représente la différence majeur entre ces deux ty
 |[Affiche toujours le même contenue](https://thebestmotherfucking.website/)|[Affiche un contenue variable en fonction de la demande](https://www.facebook.com/?stype=lo&jlou=AfdhijCDciu4I8pjW2UkSVMjehf_PG6TrRMOprL9_jvSPeM4CJGqLmaqVH74-rnsZ7AR95wT1RxhHJ_9YZLB_r59zcdBJUqKFy7FB44tUWPeWg&smuh=60154&lh=Ac9Fod24CQ2dj7jW)|
 
 <br />
-
+<br />
+<br />
 
 ![Schéma site statique et dynamique](http://www.imedias.pro/wp-content/themes/bootstrap-basic4-child/images/cours/page_web/page_statique_dynamique.gif)
 
