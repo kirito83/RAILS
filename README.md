@@ -11,7 +11,6 @@
 * Les relations entre les models des BDD.
 * Les fonctions du CRUD.
 
----
 
 ## 1.La différence entre un site statique et un site dynamique
 
@@ -24,14 +23,13 @@ Un _site web statique_ est une page dont le contenue ne varie pas en fonction de
 D'après ces deux définitions, on peut déduire que la différence majeure entre un site statique et un site dynamique est le fait que le **premier affiche toujours le même contenue** et le **second varie en fonction de la demande**.
 
 Dans le tableau suivant, qui représente la différence majeur entre ces deux types de sites, vous trouverez des liens vers deux exemples illustrants bien chacun des types.
-
-
+<br>
 |Site statique   |Site dynamique|
 |:---:|:---:|
 |[Affiche toujours le même contenue](https://thebestmotherfucking.website/)|[Affiche un contenue variable en fonction de la demande](https://www.facebook.com/?stype=lo&jlou=AfdhijCDciu4I8pjW2UkSVMjehf_PG6TrRMOprL9_jvSPeM4CJGqLmaqVH74-rnsZ7AR95wT1RxhHJ_9YZLB_r59zcdBJUqKFy7FB44tUWPeWg&smuh=60154&lh=Ac9Fod24CQ2dj7jW)|
 
-
-
+<br>
+<br>
 ![Schéma site statique et dynamique](http://www.imedias.pro/wp-content/themes/bootstrap-basic4-child/images/cours/page_web/page_statique_dynamique.gif)
 
 
