@@ -24,9 +24,9 @@ Un _site web statique_ est une page dont le contenue ne varie pas en fonction de
 D'après ces deux définitions, on peut déduire que la différence majeure entre un site statique et un site dynamique est le fait que le premier affiche toujours le **même contenue** et le **second varie** en fonction de la demande.
 
 
-        |Site statique    |Site dynamique    |
-        |-----------------|:----------------:|
-        |même contenue    |contenue variable |
+|Site statique    |Site dynamique    |
+|:---:|:---:|
+|même contenue    |contenue variable |
 
 
 
